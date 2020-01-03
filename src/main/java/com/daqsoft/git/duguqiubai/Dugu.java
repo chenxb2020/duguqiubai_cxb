@@ -7,5 +7,10 @@ public class Dugu {
         System.out.println("zzzz源代码管理器。。。。");
         System.out.println("cccc源代码管理器。。。。");
         System.out.println("zzzz源代码管理器。。。。");
+        System.out.println("源代码管理器。。。。");
+        System.out.println("源代码管理器。。。。");
+        System.out.println("源代码管理器。。。。");
+        System.out.println("源代码管理器。。。。");
+        System.out.println("源代码管理器。。。。");
     }
 }
